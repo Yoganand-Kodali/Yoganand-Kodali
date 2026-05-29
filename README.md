@@ -1,5 +1,5 @@
 
-<h1>Yoganand Kodali</h1>
+<h1>YOGANAND KODALI</h1>
 
 <p><strong>Senior Data Engineer</strong> &nbsp;|&nbsp; Spark · PySpark · Databricks · Snowflake · dbt · Delta Lake · Airflow · Kafka · SQL · AWS · Azure · GCP</p>
 
@@ -94,6 +94,6 @@ Functional Python implementation of a simplified Uno game — deck creation, rou
 **Warehousing** &nbsp; `Snowflake` `BigQuery` `SQL Server` `MySQL` `Oracle` `MongoDB`\
 **DevOps** &nbsp; `Docker` `Kubernetes` `CI/CD` `Azure DevOps` `Git` `Jenkins` `OpenShift`\
 **BI & Analytics** &nbsp; `Power BI` `Tableau` `Pandas` `NumPy`\
-**Cloud** &nbsp; `GCP — BigQuery · Dataflow · Pub/Sub · Cloud Composer` &nbsp; `Azure — ADF · Databricks · Synapse · ADLS Gen2` &nbsp; `AWS — S3 · Glue · Redshift · Lambda`\
+**Cloud** &nbsp; `GCP — BigQuery · Dataflow · Pub/Sub · Cloud Composer` &nbsp; `Azure — ADF · Databricks · Synapse · ADLS Gen2` &nbsp; `AWS — S3 · Glue · Redshift · Lambda`
 
 ---
