@@ -1,12 +1,14 @@
 # Yoganand Kodali
 
-**Senior Data Engineer · 7+ Years · Azure · AWS · GCP**
+**Senior Data Engineer | Spark • PySpark • Databricks • Snowflake • dbt • Delta Lake | Airflow • Kafka • SQL | AWS • Azure • GCP**
 
-I build the data infrastructure that companies depend on — high-throughput pipelines, real-time streaming systems, and cloud-native platforms that process billions of records and power analytics, fraud detection, and machine learning at enterprise scale. Currently based in New Jersey and actively exploring Senior / Staff Data Engineer roles.
+I build the data infrastructure that companies depend on — high-throughput pipelines, real-time streaming systems, and cloud-native platforms that process billions of records and power analytics, fraud detection, and machine learning at enterprise scale. 
+
+Currently based in New Jersey and actively exploring Senior / Staff Data Engineer roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://yoganand-kodali-1f0qyn6.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=githubpages&logoColor=white)](https://yoganand-kodali-1f0qyn6.gamma.site/)
 
 ---
 
