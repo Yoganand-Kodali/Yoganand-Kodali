@@ -142,9 +142,3 @@
 🔧 **B.Tech, Mechanical Engineering** — Gudlavalleru Engineering College *(Apr 2018)*
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yoganand97&color=2F4F7F&style=flat-square&label=Profile+Views)
-
-</div>
