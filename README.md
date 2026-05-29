@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
+[![Location](https://img.shields.io/badge/Location-New%20Jersey%2C%20USA-2ECC71?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
 
