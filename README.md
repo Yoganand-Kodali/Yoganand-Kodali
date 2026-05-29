@@ -2,7 +2,7 @@
 
 # Yoganand Kodali
 
-### Senior Data Engineer &nbsp;|&nbsp; 7+ Years &nbsp;|&nbsp; Azure · AWS · GCP|&nbsp; Python · SQL · Pyspark · Databricks · Snowflake
+### Senior Data Engineer &nbsp;|&nbsp; 7+ Years &nbsp;|&nbsp; Azure · AWS · GCP |&nbsp; Python · SQL · Pyspark · Databricks · Snowflake
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
@@ -29,14 +29,14 @@
 
 | Metric | Achievement |
 |--------|------------|
-| 📦 Daily transactions processed | **2,000,000+** |
-| ⚡ Data latency reduction | **35%** |
-| 💰 Infrastructure cost reduction | **20%** |
-| 🔧 Pipeline maintenance effort saved | **30%** |
-| ✅ SLA compliance | **99%** |
-| 🤖 Manual intervention reduced | **60%** |
-| 📊 Report generation time cut | **50%** |
-| 📈 Data visibility improved | **35%** |
+|  Daily transactions processed | **2,000,000+** |
+|  Data latency reduction | **35%** |
+|  Infrastructure cost reduction | **20%** |
+|  Pipeline maintenance effort saved | **30%** |
+|  SLA compliance | **99%** |
+|  Manual intervention reduced | **60%** |
+|  Report generation time cut | **50%** |
+|  Data visibility improved | **35%** |
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ## 💼 Work Experience
 
-### 🏦 Sr. Data Engineer — PNC Bank, Boston MA
+### Sr. Data Engineer — PNC Bank, Boston MA
 **Jul 2024 – Dec 2025**
 
 - Architected ELT pipelines on **GCP (BigQuery + Dataflow + Pub/Sub)** ingesting 2M+ daily banking transactions for analytics and regulatory reporting
@@ -58,7 +58,7 @@
 
 ---
 
-### 🏢 Data Engineer — Ventiv Technologies, Bangalore
+### Data Engineer — Ventiv Technologies, Bangalore
 **Oct 2022 – Aug 2023**
 
 - Designed Azure lakehouse pipelines (**ADF + Databricks + ADLS Gen2**) processing **1M+ insurance records/month** with 30% efficiency gain
@@ -71,7 +71,7 @@
 
 ---
 
-### 🚗 Data Engineer — OLA Electric | Futurense Technologies, Bangalore
+### Data Engineer — OLA Electric | Futurense Technologies, Bangalore
 **Jan 2021 – Sep 2022**
 
 - Built scalable ETL pipelines processing **100K+ monthly orders** across business units
@@ -83,7 +83,7 @@
 
 ---
 
-### 📊 Data Analyst / Data Engineer — Rolon Seals, Hyderabad
+### Data Analyst / Data Engineer — Rolon Seals, Hyderabad
 **May 2018 – Dec 2020**
 
 - Automated Excel-based reporting with Python reducing reporting time by **50%**
@@ -133,12 +133,12 @@
 
 ---
 
-## 🎓 Education
+## Education
 
-🎓 **M.S. Data Analytics** — Clark University, Worcester MA *(May 2025)*
+**M.S. Data Analytics** — Clark University, Worcester MA *(May 2025)*
 
-📜 **PG Diploma, Data Science & Engineering** — Great Lakes Institute, Hyderabad *(Sep 2021)*
+**PG Diploma, Data Science & Engineering** — Great Lakes Institute, Hyderabad *(Sep 2021)*
 
-🔧 **B.Tech, Mechanical Engineering** — Gudlavalleru Engineering College *(Apr 2018)*
+**B.Tech, Mechanical Engineering** — Gudlavalleru Engineering College *(Apr 2018)*
 
 ---
