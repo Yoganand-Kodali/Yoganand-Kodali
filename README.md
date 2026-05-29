@@ -1,7 +1,7 @@
 
 <h1>YOGANAND KODALI</h1>
 
-<p><strong>Senior Data Engineer</strong> &nbsp;|&nbsp; Spark · PySpark · Databricks · Snowflake · dbt · Delta Lake · Airflow · Kafka · SQL · AWS · Azure · GCP</p>
+<p><strong>Senior Data Engineer </strong> &nbsp;|&nbsp; Python · SQL · PySpark · Databricks · Snowflake · dbt · Delta Lake · Airflow · Kafka · AWS · Azure · GCP</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
